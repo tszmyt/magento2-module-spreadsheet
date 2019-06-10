@@ -1,6 +1,6 @@
 {
-  "name": "staempfli/magento2-module-spreadsheet",
-  "description": "Magento 2 Module for parsing xlsx, xlsm and csv files from Excel",
+  "name": "tszmyt/magento2-module-spreadsheet",
+  "description": "Fork for newer php versions - Magento 2 Module for parsing xlsx, xlsm and csv files from Excel",
   "require": {
     "php": "~7.0",
     "akeneo-labs/spreadsheet-parser": "^1.2"
@@ -14,6 +14,10 @@
     {
       "name": "Marcel Hauri",
       "email": "marcel.hauri@staempfli.com"
+    },
+    {
+      "name": "Tomasz Szmyt",
+      "email": "tszmyt@creatuity.com"
     }
   ],
   "autoload": {
