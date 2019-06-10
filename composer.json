@@ -2,7 +2,7 @@
   "name": "staempfli/magento2-module-spreadsheet",
   "description": "Magento 2 Module for parsing xlsx, xlsm and csv files from Excel",
   "require": {
-    "php": "~7.0.0",
+    "php": "~7.0",
     "akeneo-labs/spreadsheet-parser": "^1.2"
   },
   "type": "magento2-module",
